@@ -43,6 +43,7 @@
     "react-vis": "^1.8.1"
   },
   "resolutions": {
+    "@babel/runtime": "7.29.7",
     "ansi-regex": "^5.0.1",
     "async": "^3.2.3",
     "fstream": "1.0.12",
