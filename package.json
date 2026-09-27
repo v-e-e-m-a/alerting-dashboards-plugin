@@ -43,6 +43,7 @@
     "react-vis": "^1.8.1"
   },
   "resolutions": {
+    "decode-uri-component": "0.5.0",
     "ansi-regex": "^5.0.1",
     "async": "^3.2.3",
     "fstream": "1.0.12",
@@ -70,7 +71,7 @@
     "picomatch": "^2.3.2",
     "brace-expansion": "^5.0.5",
     "yaml": "^1.10.3",
-    "qs": "^6.15.2",
+    "qs": "^6.16.0",
     "uuid": "^14.0.0",
     "bn.js": "^5.2.3",
     "serialize-javascript": "^7.0.3"
